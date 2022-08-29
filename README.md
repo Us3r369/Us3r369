@@ -16,6 +16,7 @@ Also, I enjoy training for -and compete in- triathlons, so if anybody would like
     - CRISP-DM process
     - Python (in Jupyter Notebook)
     - Libraries: pandas, numpy, seaborn, spaCy, scikit-learn
+    - Webscraping, EDA, DTM, TF-IDF, Latent Dirichlet Allocation
   - #### Insights/ Learnings :eyes:
     - Things you can't escape: Death, taxes and data cleaning :sweat_smile:
     - Interpretation of results > Model implementation (seems as if there's hope for us humans after all)
@@ -32,7 +33,7 @@ Also, I enjoy training for -and compete in- triathlons, so if anybody would like
   - #### Tools/ Techniques  :wrench: 
     - SQL (in pgAdmin)
     - Python (in PyCharm)
-    - New libraries: psycopg2, plotly, dash 
+    - "New" libraries: psycopg2, plotly, dash
   - #### Insights/ Learnings :eyes:
     - The earlier you plan your architecture the better
     - Scope creep is real :ghost:
