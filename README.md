@@ -40,3 +40,15 @@ Also, I enjoy training for -and compete in- triathlons, so if anybody would like
   - #### Example visualization :bar_chart:
   
       ![image](https://user-images.githubusercontent.com/50540064/186986202-a164401d-242c-4d10-b9e7-1ade00b48bd1.png)
+
+## _3) Reinforcement Learning for financial data (Work in Progress)_
+  - #### Data Source:floppy_disk: 
+    - API call - Source tbd
+  - #### Goals :dart:
+    - Train reinforcement learning algorithm (currently evaluating fitness of SARSA) on price movements in various assets/ asset classes 
+  - #### Tools/ Techniques  :wrench: 
+    - Coming soon
+  - #### Insights/ Learnings :eyes:
+    - Coming soon
+  - #### Example visualization :bar_chart:
+    - Coming soon
