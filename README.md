@@ -3,7 +3,7 @@ Hi,
 my name is Jan, I'm 31 years old and currently reside in Miami :)
 I love learning new things and acquiring new skills, so with the projects outlined below, I'm trying to do exactly that in the 
 field of data science. 
-Also, I enjoy training for -and compete in- triathlons, so if anybody would like to colaborate on a garmin project, let me know :stuck_out_tongue_winking_eye:
+Also, I enjoy training for -and competing in- triathlons, so if anybody would like to colaborate on a garmin project, let me know :stuck_out_tongue_winking_eye:
 
 ## My Projects:
 ## _1) Pattern recognition in annual reports through Natural Language Processing_
