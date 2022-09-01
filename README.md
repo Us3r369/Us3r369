@@ -8,7 +8,7 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
 ## My Projects:
 ## _1) Pattern recognition in annual reports through Natural Language Processing_
   - #### Data Source:floppy_disk: 
-    - Web scraped 507 annual reports of 42 german companies over 15 years (123.687 pages)
+    - Web scraped 507 annual reports of 42 german companies over 14 years (123.687 pages)
   - #### Goals :dart:
     - Analyze differences and similarities between companies or industries
     - Implement my first unsupervised learning algorithm (Latent Dirichlet Allocation):satisfied:
