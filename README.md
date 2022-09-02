@@ -40,8 +40,22 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
   - #### Example visualization :bar_chart:
   
       ![image](https://user-images.githubusercontent.com/50540064/186986202-a164401d-242c-4d10-b9e7-1ade00b48bd1.png)
+      
+ ## _3) Market segmentation of eBay marketplace_
+  - #### Data Source:floppy_disk: 
+    - webcraping
+  - #### Goals :dart:
+    - Gain insights into market structure, relevant product categories and pricing 
+  - #### Tools/ Techniques  :wrench: 
+    - Python (in Atom)
+    - Power BI
+  - #### Insights/ Learnings :eyes:
+    - Able to optimize product placement and portfolio
+  - #### Example visualization :bar_chart:
+     ![image](https://user-images.githubusercontent.com/50540064/188038906-cf8cdc80-fb9e-4e45-9216-846dcf751ee1.png)
+     ![image](https://user-images.githubusercontent.com/50540064/188038990-9618520a-1a24-4770-b70f-6e0a14998325.png)
 
-## _3) Reinforcement Learning for financial data (Work in Progress)_
+## _4) Reinforcement Learning for financial data (Work in Progress)_
   - #### Data Source:floppy_disk: 
     - API call - Source tbd
   - #### Goals :dart:
