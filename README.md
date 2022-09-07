@@ -19,7 +19,7 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
     - Webscraping, EDA, DTM, TF-IDF, Latent Dirichlet Allocation
   - #### Insights/ Learnings :eyes:
     - Things you can't escape: Death, taxes and data cleaning :sweat_smile:
-    - Interpretation of results > Model implementation (seems as if there's hope for us humans after all)
+    - Interpretation of results is as important if not more than model implementation (domain expertise needed)
   - #### Example visualization :bar_chart: 
 
       ![image](https://user-images.githubusercontent.com/50540064/186980111-aa301b5f-5182-4bbd-8f06-2a0af5b676eb.png)
@@ -37,6 +37,7 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
   - #### Insights/ Learnings :eyes:
     - The earlier you plan your architecture the better
     - Scope creep is real :ghost:
+    - Created interactive Dashboard
   - #### Example visualization :bar_chart:
   
       ![image](https://user-images.githubusercontent.com/50540064/186986202-a164401d-242c-4d10-b9e7-1ade00b48bd1.png)
@@ -48,6 +49,7 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
     - Gain insights into market structure, relevant product categories and pricing 
   - #### Tools/ Techniques  :wrench: 
     - Python (in Atom)
+    - Webscraping using beautiful soup library
     - Power BI
   - #### Insights/ Learnings :eyes:
     - Able to optimize product placement and portfolio
@@ -57,8 +59,9 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
 
 ## _4) Reinforcement Learning for financial data (Work in Progress)_
   - #### Data Source:floppy_disk: 
-    - API call - Source tbd
+    - API call -  Yahoo! Finance's API
   - #### Goals :dart:
+    - Implement various models (eg. random forest) and evaluate their performance 
     - Train reinforcement learning algorithm (currently evaluating fitness of SARSA) on price movements in various assets/ asset classes 
   - #### Tools/ Techniques  :wrench: 
     - Coming soon
