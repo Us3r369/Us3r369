@@ -24,7 +24,7 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
 
       ![image](https://user-images.githubusercontent.com/50540064/186980111-aa301b5f-5182-4bbd-8f06-2a0af5b676eb.png)
   
-## _2) Investment Dashboard_
+## _2) Interactive Investment Dashboard_
   - #### Data Source:floppy_disk: 
     - API call - EOD Historical Data
   - #### Goals :dart:
