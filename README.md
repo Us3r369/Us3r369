@@ -69,5 +69,5 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
   - #### Insights/ Learnings :eyes:
     - Evaluation metrics such as mean squared error and mean absolute error are quite helpful when comparing different models or for finetuning a model, but overall quality should be measured by how well a model contributes to a business goal or use case.  
   - #### Example visualization :bar_chart:
-    [prediction_high_50_past_values](https://user-images.githubusercontent.com/50540064/190666058-507e842d-5b3d-48cd-a787-f97bf976d93d.png)
+    ![image](https://user-images.githubusercontent.com/50540064/190666058-507e842d-5b3d-48cd-a787-f97bf976d93d.png)
 
