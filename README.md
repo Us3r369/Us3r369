@@ -57,15 +57,16 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
      ![image](https://user-images.githubusercontent.com/50540064/188038906-cf8cdc80-fb9e-4e45-9216-846dcf751ee1.png)
      ![image](https://user-images.githubusercontent.com/50540064/188038990-9618520a-1a24-4770-b70f-6e0a14998325.png)
 
-## _4) Reinforcement Learning for financial data (Work in Progress)_
+## _4) Random Forest for time series prediction of financial data (Work in Progress)_
   - #### Data Source:floppy_disk: 
     - API call -  Yahoo! Finance's API
   - #### Goals :dart:
-    - Implement various models (eg. random forest) and evaluate their performance 
-    - Train reinforcement learning algorithm (currently evaluating fitness of SARSA) on price movements in various assets/ asset classes 
+    - Implement, tune and evaluate random forest algorithm (supervised learning)
+    - Test if short term price movements in various assets can be predicted with reasonable accuracy 
   - #### Tools/ Techniques  :wrench: 
-    - Coming soon
+    - Python (in Pycharm)
+    - Libraries: scikit-learn 
   - #### Insights/ Learnings :eyes:
-    - Coming soon
+    - Evaluation metrics such as mean squared error and mean absolute error are quite helpfull when comparing different models or for finetuning a model, but overall quality should be meassured by how well a model contributes to a business goal or usecase.  
   - #### Example visualization :bar_chart:
     - Coming soon
