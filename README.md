@@ -67,6 +67,6 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
     - Python (in Pycharm)
     - Libraries: scikit-learn 
   - #### Insights/ Learnings :eyes:
-    - Evaluation metrics such as mean squared error and mean absolute error are quite helpfull when comparing different models or for finetuning a model, but overall quality should be meassured by how well a model contributes to a business goal or usecase.  
+    - Evaluation metrics such as mean squared error and mean absolute error are quite helpful when comparing different models or for finetuning a model, but overall quality should be measured by how well a model contributes to a business goal or use case.  
   - #### Example visualization :bar_chart:
     - Coming soon
