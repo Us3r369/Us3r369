@@ -29,7 +29,7 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
     - API call - EOD Historical Data
   - #### Goals :dart:
     - Get familiar with financial data
-    - Automate personal finance tracking
+    - Automate personal finance tracking by building a data pipeline
   - #### Tools/ Techniques  :wrench: 
     - SQL (in pgAdmin)
     - Python (in PyCharm)
