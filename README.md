@@ -75,7 +75,7 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
 
 ## _5) Mobile app for geolocation tracking in flutter (Work in Progress)_
   - #### Data Source:floppy_disk: 
-    - Location information on smartphoneI
+    - Location information on smartphone
   - #### Goals :dart:
     - Gather geolocation and timestamps to track and optimize transportation processes
   - #### Tools/ Techniques  :wrench: 
