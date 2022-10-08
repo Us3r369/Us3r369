@@ -67,7 +67,23 @@ Also, I enjoy training for -and competing in- triathlons, so if anybody would li
     - Python (in Pycharm)
     - Libraries: scikit-learn 
   - #### Insights/ Learnings :eyes:
-    - Evaluation metrics such as mean squared error and mean absolute error are quite helpful when comparing different models or for finetuning a model, but overall quality should be measured by how well a model contributes to a business goal or use case.  
+    - Evaluation metrics such as mean squared error and mean absolute error are quite helpful when comparing different models or for finetuning a model, but overall quality should be measured by how well a model contributes to a business goal or use case.
+    - Timeframe of predictions are a major factor on prediction accuracy - no surprise there, but cool to see in a real life scenario. 
+    - In a dynamic scenario such as this, the classic approach of "train -> evaluate -> deploy" might not be suitable. Rather verify the algorithm once, then refit the model with every new timestamp coming in.
   - #### Example visualization :bar_chart:
-    ![image](https://user-images.githubusercontent.com/50540064/190666058-507e842d-5b3d-48cd-a787-f97bf976d93d.png)
+    ![image](https://user-images.githubusercontent.com/50540064/194714179-af612dee-c126-424a-b39d-eb888b1099f7.png)
+
+## _5) Mobile app for geolocation tracking in flutter (Work in Progress)_
+  - #### Data Source:floppy_disk: 
+    - Location information on smartphoneI
+  - #### Goals :dart:
+    - Gather geolocation and timestamps to track and optimize transportation processes
+  - #### Tools/ Techniques  :wrench: 
+    - Flutter (in Android Studio) 
+  - #### Insights/ Learnings :eyes:
+    - Coming Soon
+  - #### Example visualization :bar_chart:
+  ![image](https://user-images.githubusercontent.com/50540064/194714744-c5eef253-f833-4902-a6ec-b07fe9618861.png)
+
+    
 
